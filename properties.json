@@ -1,0 +1,43 @@
+[{
+        "name": "Sentiment_Field_Name",
+        "defaultValue": "Sentimentscore",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "High_Icon",
+        "defaultValue": "oj-ux-ico-happy-filled",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "High_Color",
+        "defaultValue": "#05a831",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "Medium_Icon",
+        "defaultValue": "oj-ux-ico-neutral-filled",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "Medium_Color",
+        "defaultValue": "#8f8300",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "Low_Icon",
+        "defaultValue": "oj-ux-ico-veryunhappy-filled",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    },
+    {
+        "name": "Low_Color",
+        "defaultValue": "#ba0202",
+        "dataType": "string",
+        "isWorkspaceProperty": false
+    }
+]
